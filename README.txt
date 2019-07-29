@@ -1,4 +1,4 @@
-Basicamente para la el funcionamiento del juego vamos a descargar la carpeta 
+Basicamente para la el funcionamiento del juego vamos a descargar y descomprimir el archivo  
 Game a continuacion de esto abrimos el cmd nos movemos a la carpeta Game y 
 ejecutamos el archivo menu el cual nos mostrara una pantalla con dos botones
 aqui se podra selecionar si se juega solo o con otro jugador una vez selecionado 
